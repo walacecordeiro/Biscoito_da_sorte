@@ -18,7 +18,7 @@ Desafio 4 do curso explorer da RocketSeat, introduzindo JavaScript.
 <br>
 
 <p align="center">
-  <img alt="layout do projeto" src="./.gitHub/preview.png" width="auto" height="800">
+  <img alt="layout do projeto" src="./.gitHub/preview.png" width="auto" height="auto">
 </p>
 
 ## 🚀 Tecnologias
